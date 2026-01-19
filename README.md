@@ -39,7 +39,7 @@ Integrated digital education strategies as an intern at this digital education i
 7-month internship at a 3D printer technology company, gaining hands-on industry experience.
 
 ### **Freelance Developer**
-Started freelancing in middle school, delivering projects for ~2 years.
+Started freelancing at age 12, delivering software solutions for **2 major holdings** and various clients for ~2 years.
 
 ---
 

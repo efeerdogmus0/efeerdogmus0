@@ -26,10 +26,13 @@ I'm a mechanical engineering and AI enthusiast with a passion for bridging the g
 Developing AI systems for robotics education. *(Major updates coming very soon!)*
 
 ### **Co-Founder @ 460 Teknoloji**
-Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16.
+Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16. I am also a member of the **Amazon Startup Program**.
 
 ### **Founder @ 460 Elektrik**
 Built an AI-powered sales system for electronics components. The success of this system provided the capital to launch my hardware manufacturing business.
+
+### **Intern @ RulesUp**
+Integrated digital education strategies as an intern at this digital education initiative.
 
 ### **Voluntary Intern @ CoPrint**
 7-month internship at a 3D printer technology company, gaining hands-on industry experience.
@@ -50,11 +53,27 @@ In high school, I joined an independent **FRC (FIRST Robotics Competition)** tea
 
 ---
 
-## 🔧 Technical Arsenal
+## 🔧 Technical Arsenal & Engineering Feats
 
 - **Domains**: Physical AI, Mechanical Design, PCB Design, Robotics, UAVs.
+- **Key Projects**:
+    - **ML Elevator Optimization**: Award-winning research paper and project (Boğaziçi AI Winner).
+    - **Swere Drive Modules**: Designed custom swerve modules essential for competitive robotics.
+    - **Climbing Mechanism**: Engineered a stable climbing system by calculating robot center of mass and oscillation dynamics.
 - **Hardware**: Custom PCB design (Logic circuit optimization), 3D Printer Design (FDM/PEEK), Drone Mechanical Design.
 - **Software**: Python, Embedded Systems, AI/ML integration in Robotics.
+
+---
+
+## 🤝 Community & Leadership
+
+**"Beloved by middle school students, who seek his mentorship even outside competition periods."**
+
+- **Mentorship**: Mentored **2 FLL teams** (one qualified for Worlds 🌍) and **2 FTC teams** (one National Winner 🏆).
+- **Leadership**: 
+    - **Team Captain**: Leading the FRC team with a focus on empowering members and crisis management.
+    - **ProBot & NFR Academy**: Leading initiatives to democratize robot design and software education for students.
+- **Philosophy**: Committed to **Gracious Professionalism®** and **Coopertition®**, fostering collaboration and collective learning.
 
 ---
 

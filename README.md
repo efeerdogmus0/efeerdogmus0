@@ -2,13 +2,14 @@
 
 **High School Student | Physical AI Enthusiast | FRC Lead | Maker**
 
-I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning championships in robotics and founding deep tech ventures.
+I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning prestigious international awards in robotics and founding deep tech ventures.
 
 ---
 
 ## 🏆 Trophy Cabinet
 
 - **FRC World Championship**: Dean’s List Winner + Gracious Professionalism Award (2025) 🏅
+  > *Selected as the 2nd student from Turkey in over 15 years to win this prestigious international award.*
 - **FRC 2025 Ankara Regional**: Winner 🥇 + Industrial Design Award + Dean’s List Finalist
 - **FTC 2026 Türkiye Championship**: Winner 🥇 + Control Award (Software)
 - **FTC 2026 Regionals**: 2x Innovate Award Winner
@@ -49,7 +50,7 @@ My passion for hardware started in 7th grade when I built my first **3D printer*
 In high school, I joined an independent **FRC (FIRST Robotics Competition)** team as a founding member and lead.
 - **The Beginning**: We spent two years working out of a **10m² warehouse**, pushing our limits with minimal resources but struggling to finish our robots on time.
 - **The Turning Point**: Meeting a teacher from **ODTÜ GVO (ODTÜ Development Foundation Schools)** changed everything. We gained access to proper machinery and workshops.
-- **The Result**: In our very first year with proper facilities, we became **Regional Winners**. We're aiming for the top again this year! 🚀
+- **The Result**: In our very first year with proper facilities, we became **Regional Winners**. We have filled our cabinet with National Championships, and now we are laser-focused on becoming **World Champions** this year! 🚀
 
 ---
 

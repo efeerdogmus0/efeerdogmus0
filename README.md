@@ -2,7 +2,7 @@
 
 **High School Student | Physical AI Enthusiast | FRC Lead | Maker**
 
-I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning world championships in robotics and founding deep tech ventures.
+I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning championships in robotics and founding deep tech ventures.
 
 ---
 
@@ -69,7 +69,7 @@ In high school, I joined an independent **FRC (FIRST Robotics Competition)** tea
 
 **"Beloved by middle school students, who seek his mentorship even outside competition periods."**
 
-- **Mentorship**: Mentored **2 FLL teams** (one qualified for Worlds 🌍) and **2 FTC teams** (one National Winner 🏆).
+- **Mentorship**: Mentored **2 FLL teams** (one qualified for Worlds 🌍) and **2 FTC teams** (both National Winners 🏆).
 - **Leadership**: 
     - **Team Captain**: Leading the FRC team with a focus on empowering members and crisis management.
     - **ProBot & NFR Academy**: Leading initiatives to democratize robot design and software education for students.

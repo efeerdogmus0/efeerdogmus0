@@ -27,7 +27,7 @@ I'm a mechanical engineering and AI enthusiast with a passion for bridging the g
 Developing AI systems for robotics education. *(Major updates coming very soon!)*
 
 ### **Co-Founder @ 460 Teknoloji**
-Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16. I am also a member of the **Amazon Startup Program**.
+Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16 (**Alumni**). I am also an **Alumni member of the Amazon Startup Program**.
 
 ### **Founder @ 460 Elektrik**
 Built an AI-powered sales system for electronics components. The success of this system provided the capital to launch my hardware manufacturing business.

@@ -57,11 +57,7 @@ In high school, I joined an independent **FRC (FIRST Robotics Competition)** tea
 
 ## 🔧 Technical Arsenal & Engineering Feats
 
-- **Domains**: Physical AI, Mechanical Design, PCB Design, Robotics, UAVs.
-- **Key Projects**:
-    - **ML Elevator Optimization**: Award-winning research paper and project (Boğaziçi AI Winner).
-    - **Swere Drive Modules**: Designed custom swerve modules essential for competitive robotics.
-    - **Climbing Mechanism**: Engineered a stable climbing system by calculating robot center of mass and oscillation dynamics.
+- **Domains**: Physical AI, Mechanical Design, PCB Design, Robotics, UAVs, ROVs.
 - **Hardware**: Custom PCB design (Logic circuit optimization), 3D Printer Design (FDM/PEEK), Drone Mechanical Design.
 - **Software**: Python, Embedded Systems, AI/ML integration in Robotics.
 

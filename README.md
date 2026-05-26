@@ -34,6 +34,10 @@ Developing AI systems for robotics education. *(Major updates coming very soon!)
 Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16 (**Alumni**).
   > Became the **youngest member** of the program and was featured in the **Istanbul Chamber of Commerce (ITO) Newspaper**. I am also an **Alumni member of the Amazon Startup Program**.
 
+### **Technical Organizer & Infrastructure Lead @ MEB "Tasarla Geliştir" Robotics Competition**
+*Ministry of National Education (MEB)*
+Assisted in the overall management and organization of this national robotics competition. Provided comprehensive technical expertise, designing and building the software, electronics, and mechanical infrastructure for the competing robots.
+
 ### **Founder @ 460 Elektrik**
 Built an AI-powered sales system for electronics components. The success of this system provided the capital to launch my hardware manufacturing business.
 

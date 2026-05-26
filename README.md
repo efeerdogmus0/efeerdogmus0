@@ -14,7 +14,8 @@ I'm a mechanical engineering and AI enthusiast with a passion for bridging the g
 - **FTC 2026 Türkiye Championship**: Winner 🥇 + Control Award (Software)
 - **FTC 2026 Regionals**: 2x Innovate Award Winner
 - **TÜBİTAK UAV Competition**: 1st Place 🥇 + TUSAŞ Special Award ✈️
-- **Teknofest Aselsan Underwater Competition**: 3rd Place 🥉 + Best Software Award
+- **FRC 2026 Istanbul Regional**: Finalist 🥈 + 2nd Alliance Captain + Innovation in Control Award
+- **Teknofest Aselsan Underwater Competition**: 3rds Place 🥉 + Best Software Award
 - **WRO Türkiye**: 3rd Place (Thermal Imaging Drone System - built in 4 days!) 🚁
 - **BoğaziçiAI UpForAChallenge**: 1st Place 🥇 (Developed a solution in an intensive 30-hour sleepless sprint)
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Efe Erdoğmuş! 👋
 
-**High School Student | Physical AI Enthusiast | FRC Lead | Maker**
+**High School Student | AI Enthusiast | FRC Lead | Maker**
 
 I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning prestigious international awards in robotics and founding deep tech ventures.
 

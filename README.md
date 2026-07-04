@@ -28,7 +28,7 @@ I'm a mechanical engineering and AI enthusiast with a passion for bridging the g
 
 ### **Co-Founder @ Kavram.ai**
 *Early Stage Venture*
-Developing AI systems for robotics education. *(Major updates coming very soon!)*
+Building a distributed image inference cloud for developers shipping production AI image generation. Kavram provides one production API for open image models, powered by a pipeline-split GPU network that can route model stages across compatible Worker capacity. Our goal is to make image generation infrastructure feel as simple to deploy as modern cloud platforms, without teams managing GPUs.
 
 ### **Co-Founder @ 460 Teknoloji**
 Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16 (**Alumni**).

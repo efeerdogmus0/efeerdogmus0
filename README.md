@@ -1,97 +1,72 @@
-# Hi there, I'm Efe Erdoğmuş! 👋
+# Yiğit Efe Erdoğmuş
 
-**High School Student | AI Enthusiast | FRC Lead | Maker**
+**Robotics + AI builder in Istanbul.** I work across mechanical design, PCB design, software, and AI infrastructure to build systems that move, think, and solve real problems.
 
-I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning prestigious international awards in robotics and founding deep tech ventures.
-
----
-
-## 🏆 Trophy Cabinet
-
-- **FRC World Championship**: Dean’s List Winner + Gracious Professionalism Award (2025) 🏅
-  > *Selected as the 2nd student from Turkey in over 15 years to win this prestigious international award.*
-- **FRC 2025 Ankara Regional**: Winner 🥇 + Industrial Design Award + Dean’s List Finalist
-- **FTC 2026 Türkiye Championship**: Winner 🥇 + Control Award (Software)
-- **FTC 2026 Regionals**: 2x Innovate Award Winner
-- **TÜBİTAK UAV Competition**: 1st Place 🥇 + TUSAŞ Special Award ✈️
-- **FRC 2026 Istanbul Regional**: Finalist 🥈 + 2nd Alliance Captain + Innovation in Control Award
-- **FRC 2026 Ankara Regional**: Finalist 🥈 + Industrial Design Award
-- **Teknofest Aselsan Underwater Competition**: 3rd Place 🥉 + Best Software Award
-- **WRO Türkiye**: 3rd Place (Thermal Imaging Drone System - built in 4 days!) 🚁
-- **BoğaziçiAI UpForAChallenge**: 1st Place 🥇 (Developed a solution in an intensive 30-hour sleepless sprint)
-- **ISIF'25 (10th Istanbul International Inventions Fair)**: Gold Medal 🥇
-- **FTC 2026 World Championship (Ross Division)**: Reach Award 🏆
+I'm a high school student, Team NF 9029 captain, FIRST Dean's List Winner, and co-founder of Kavram.ai and 460 Teknoloji.
 
 ---
 
-## 🚀 Experience & Ventures
+## What I Build
 
-### **Co-Founder @ Kavram.ai**
-*Early Stage Venture*
-Building a distributed image inference cloud for developers shipping production AI image generation. Kavram provides one production API for open image models, powered by a pipeline-split GPU network that can route model stages across compatible Worker capacity. Our goal is to make image generation infrastructure feel as simple to deploy as modern cloud platforms, without teams managing GPUs.
+- Robotics systems for FRC/FTC, UAV, and underwater competitions
+- Physics and trajectory simulation tools for mechanical design decisions
+- Offline-first scouting and strategy software for robotics teams
+- PCB and electronics workflows for hardware products
+- AI infrastructure and automation tools for production use cases
 
-### **Co-Founder @ 460 Teknoloji**
-Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16 (**Alumni**).
-  > Became the **youngest member** of the program and was featured in the **Istanbul Chamber of Commerce (ITO) Newspaper**. I am also an **Alumni member of the Amazon Startup Program**.
+## Selected Projects
 
-### **Technical Organizer & Infrastructure Lead @ MEB "Tasarla Geliştir" Robotics Competition**
-*Ministry of National Education (MEB)*
-Assisted in the overall management and organization of this national robotics competition. Provided comprehensive technical expertise, designing and building the software, electronics, and mechanical infrastructure for the competing robots.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [OpenTorpedo](https://github.com/efeerdogmus0/opentorpedo) | Design and simulation toolchain for Teknofest unmanned underwater systems. | Python, PyQt6, physics simulation, optimization |
+| [NF Scout](https://github.com/efeerdogmus0/nfScout9029) | Offline-first FRC scouting and strategy platform for Team NF 9029. | JavaScript, Python, Docker |
+| [FRC Shooter Calculator](https://github.com/efeerdogmus0/frc-shooter-calculator) | Trajectory simulator and optimal angle calculator for FRC shooter design. | Python, PyQt6, 2D/3D visualization |
+| [School Appointment System](https://github.com/efeerdogmus0/school-appointment-system) | Appointment and pre-registration system built for Nişantaşı Nuri Akın Anadolu Lisesi. | Next.js, TypeScript, Vercel |
+| [Shopify Image Upscaler](https://github.com/efeerdogmus0/shopify-image-upcsaler) | Dockerized AI image upscaling workflow for Shopify product photos. | Python, Docker, Shopify GraphQL API |
+| [Oil Leakage Drone Simulator](https://github.com/efeerdogmus0/oilLeakage) | Flask dashboard and drone simulator for oil leakage detection workflows. | Python, Flask, OpenCV, JavaScript |
 
-### **Founder @ 460 Elektrik**
-Built an AI-powered sales system for electronics components. The success of this system provided the capital to launch my hardware manufacturing business.
+## Ventures & Roles
 
-### **Intern @ RulesUp**
-Integrated digital education strategies as an intern at this digital education initiative.
+### Co-Founder @ Kavram.ai
 
-### **Voluntary Intern @ CoPrint**
-7-month internship at a 3D printer technology company, gaining hands-on industry experience.
+Building distributed image inference infrastructure for teams shipping production AI image generation.
 
-### **Freelance Developer**
-Started freelancing at age 12, delivering software solutions for **2 major holdings** and various clients for ~2 years.
+### Co-Founder @ 460 Teknoloji
 
----
+Building drone motors, electronic cards, and robotics hardware products.
 
-## 🛠️ The "Garage to Lab" Journey
+### Team Captain @ Team NF 9029
 
-My passion for hardware started in 7th grade when I built my first **3D printer** by forking an open-source model. By 8th grade, I was designing my own printers from scratch, capable of printing high-performance materials like PEEK.
+Leading robotics development across mechanical design, software, strategy, prototyping, and competition operations.
 
-In high school, I joined an independent **FRC (FIRST Robotics Competition)** team as a founding member and lead.
-- **The Beginning**: We spent two years working out of a **10m² warehouse**, pushing our limits with minimal resources but struggling to finish our robots on time.
-- **The Turning Point**: Meeting a teacher from **ODTÜ GVO (ODTÜ Development Foundation Schools)** changed everything. We gained access to proper machinery and workshops.
-- **The Result**: In our very first year with proper facilities, we became **Regional Winners**. We have filled our cabinet with National Championships, and now we are laser-focused on becoming **World Champions** this year! 🚀
+### Technical Organizer @ MEB "Tasarla Geliştir"
 
----
+Supported national robotics competition infrastructure across software, electronics, and mechanical systems.
 
-## 🔧 Technical Arsenal & Engineering Feats
+## Recognition
 
-- **Domains**: Physical AI, Mechanical Design, PCB Design, Robotics, UAVs, ROVs.
-- **Hardware**: Custom PCB design (Logic circuit optimization), 3D Printer Design (FDM/PEEK), Drone Mechanical Design.
-- **Software**: Python, Embedded Systems, AI/ML integration in Robotics.
+- FIRST Dean's List Winner and Gracious Professionalism Award, FRC World Championship 2025
+- FRC 2025 Ankara Regional Winner, Industrial Design Award, Dean's List Finalist
+- FTC 2026 Türkiye Championship Winner and Control Award
+- TÜBİTAK UAV Competition 1st Place and TUSAŞ Special Award
+- Teknofest Aselsan Underwater Competition 3rd Place and Best Software Award
+- ISIF'25 Gold Medal
+- BoğaziçiAI UpForAChallenge 1st Place
 
----
+## Technical Focus
 
-## 🤝 Community & Leadership
-
-**"Beloved by middle school students, who seek his mentorship even outside competition periods."**
-
-- **Mentorship**: Mentored **2 FLL teams** (one qualified for Worlds 🌍) and **2 FTC teams** (both National Winners 🏆).
-- **Leadership**: 
-    - **Team Captain**: Leading the FRC team with a focus on empowering members and crisis management.
-    - **ProBot & NFR Academy**: Leading initiatives to democratize robot design and software education for students.
-- **Philosophy**: Committed to **Gracious Professionalism®** and **Coopertition®**, fostering collaboration and collective learning.
+- **Robotics:** FRC, FTC, UAVs, ROVs, field systems, scouting, strategy
+- **Hardware:** Mechanical design, 3D printer design, PCB design, prototyping
+- **Software:** Python, TypeScript, JavaScript, Docker, FastAPI, Flask, Next.js
+- **AI:** Image generation infrastructure, computer vision, LLM-assisted automation
 
 ---
-
-*“I create things that move, think, and solve real-world problems.”*
 
 <div align="center">
+
+[Mail](mailto:efeerdogmus0@gmail.com) · [LinkedIn](https://linkedin.com/in/efeerdogmus0)
+
 <br>
-
-<a href="mailto:efeerdogmus0@gmail.com">Mail</a> • 
-<a href="https://linkedin.com/in/efeerdogmus0">LinkedIn</a>
-
-<br><br>
 
 ![efeerdogmus0's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=efeerdogmus0&show_icons=true&theme=gotham&hide_border=true)
 ![efeerdogmus0's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=efeerdogmus0&theme=gotham&hide_border=true&layout=compact)

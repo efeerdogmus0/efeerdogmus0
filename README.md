@@ -1,99 +1,68 @@
-# Hi there, I'm Efe Erdoğmuş! 👋
+# Yiğit Efe Erdoğmuş
 
-**High School Student | AI Enthusiast | FRC Lead | Maker**
+**Co-founder of [Kavram.ai](https://kavram.ai), building distributed image inference infrastructure.**
 
-I'm a mechanical engineering and AI enthusiast with a passion for bridging the gap between hardware and software. My journey started with a homemade 3D printer in middle school and has evolved into winning prestigious international awards in robotics and founding deep tech ventures.
+I am a student engineer in Istanbul working across AI infrastructure, robotics, embedded software, mechanical design, and custom electronics. I am most at home where software and hardware meet: GPU systems, autonomous vehicles, PCBs, mechanisms, and the tools around them.
 
----
+[Product](https://kavram.ai/en) · [Documentation](https://kavram.ai/en/docs) · [System status](https://kavram.ai/en/status) · [LinkedIn](https://linkedin.com/in/efeerdogmus0) · [Email](mailto:efeerdogmus0@gmail.com)
 
-## 🏆 Trophy Cabinet
+## Current focus
 
-- **FRC World Championship**: Dean’s List Winner + Gracious Professionalism Award (2025) 🏅
-  > *Selected as the 2nd student from Turkey in over 15 years to win this prestigious international award.*
-- **FRC 2025 Ankara Regional**: Winner 🥇 + Industrial Design Award + Dean’s List Finalist
-- **FTC 2026 Türkiye Championship**: Winner 🥇 + Control Award (Software)
-- **FTC 2026 Regionals**: 2x Innovate Award Winner
-- **TÜBİTAK UAV Competition**: 1st Place 🥇 + TUSAŞ Special Award ✈️
-- **FRC 2026 Istanbul Regional**: Finalist 🥈 + 2nd Alliance Captain + Innovation in Control Award
-- **FRC 2026 Ankara Regional**: Finalist 🥈 + Industrial Design Award
-- **Teknofest Aselsan Underwater Competition**: 3rd Place 🥉 + Best Software Award
-- **WRO Türkiye**: 3rd Place (Thermal Imaging Drone System - built in 4 days!) 🚁
-- **BoğaziçiAI UpForAChallenge**: 1st Place 🥇 (Developed a solution in an intensive 30-hour sleepless sprint)
-- **ISIF'25 (10th Istanbul International Inventions Fair)**: Gold Medal 🥇
-- **FTC 2026 World Championship (Ross Division)**: Reach Award 🏆
+At **Kavram.ai**, I am co-founding a distributed image inference cloud for developers: one API for open image models, backed by a pipeline-split GPU worker network. My work spans product, backend and worker systems, deployment, and operations.
 
----
+Most of my current Kavram work is private. The repositories below are representative public engineering work, not a complete activity log.
 
-## 🚀 Experience & Ventures
+## Selected public engineering work
 
-### **Co-Founder @ Kavram.ai**
-*Early Stage Venture*
-Building a distributed image inference cloud for developers shipping production AI image generation. Kavram provides one production API for open image models, powered by a pipeline-split GPU network that can route model stages across compatible Worker capacity. Our goal is to make image generation infrastructure feel as simple to deploy as modern cloud platforms, without teams managing GPUs.
+| Project | What it does |
+| --- | --- |
+| [PX4 Log to QGroundControl Telemetry](https://github.com/efeerdogmus0/px4-log-to-qground-telemetry) | Replays PX4 ULog flight data into QGroundControl over MAVLink, with automated tests and CI. |
+| [OpenTorpedo](https://github.com/efeerdogmus0/opentorpedo) | CAD, physics, and optimization tooling for underwater vehicle and torpedo design studies. |
+| [FRC Shooter Calculator](https://github.com/efeerdogmus0/frc-shooter-calculator) | A PyQt6 simulator for exploring FRC shooter geometry and launch parameters. |
 
-### **Co-Founder @ 460 Teknoloji**
-Bootstrapped a company producing drone motors and electronic cards, funded entirely by revenue from my previous venture, 460 Elektrik. This achievement led to my acceptance into **BTM (Bilgiyi Ticarileştirme Merkezi)**, one of Europe's largest startup acceleration centers, at age 16 (**Alumni**).
-  > Became the **youngest member** of the program and was featured in the **Istanbul Chamber of Commerce (ITO) Newspaper**. I am also an **Alumni member of the Amazon Startup Program**.
+## Experience and ventures
 
-### **Technical Organizer & Infrastructure Lead @ MEB "Tasarla Geliştir" Robotics Competition**
-*Ministry of National Education (MEB)*
-Assisted in the overall management and organization of this national robotics competition. Provided comprehensive technical expertise, designing and building the software, electronics, and mechanical infrastructure for the competing robots.
+- **Kavram.ai — Co-founder:** Product and engineering across distributed AI inference, backend and worker infrastructure, deployment, and operations.
+- **460 Teknoloji — Co-founder:** Bootstrapped drone-motor and electronic-card development with revenue from 460 Elektrik. Joined BTM at 16 as its youngest member at the time, was featured in the Istanbul Chamber of Commerce newspaper, and became an Amazon Startup Program alumnus.
+- **MEB “Tasarla Geliştir” — Technical organizer and infrastructure lead:** Helped build the competition's software, electronics, and mechanical infrastructure.
+- **460 Elektrik — Founder:** Built an AI-assisted electronics sales operation whose revenue funded later hardware work.
+- **FRC Team NF 9029 — Founding member, lead, and captain:** Worked across robot mechanics, control, strategy, team operations, and mentorship.
+- **CoPrint — Volunteer intern:** Spent seven months gaining hands-on experience in 3D-printer technology.
+- **RulesUp — Intern:** Worked on digital education initiatives.
+- **Freelance developer:** Started at age 12 and delivered software for two major holdings and other clients over roughly two years.
 
-### **Founder @ 460 Elektrik**
-Built an AI-powered sales system for electronics components. The success of this system provided the capital to launch my hardware manufacturing business.
+## Selected honors
 
-### **Intern @ RulesUp**
-Integrated digital education strategies as an intern at this digital education initiative.
+### FIRST Robotics
 
-### **Voluntary Intern @ CoPrint**
-7-month internship at a 3D printer technology company, gaining hands-on industry experience.
+- **2025 FIRST Dean’s List Winner** — one of ten FRC students selected worldwide and the second student from Türkiye on FIRST's 2010–2025 winner roster. ([FIRST winners](https://www.firstinspires.org/resources/library/frc/first-leadership-award-winners))
+- **FRC 2025:** Ankara Regional Winner, Industrial Design Award, and Dean’s List Finalist; Gracious Professionalism Award at the FIRST Championship. ([Team 9029 results](https://frc-events.firstinspires.org/2025/team/9029))
+- **FRC 2026:** Istanbul Regional Finalist and Innovation in Control Award; Ankara Regional Finalist and Industrial Design Award. ([Team 9029 results](https://frc-events.firstinspires.org/2026/team/9029))
+- **FTC ZAĞANOS 25577:** Türkiye Championship Winning Alliance Captain and Control Award; two Innovate Awards; Reach Award at the FIRST Championship Ross Division. ([Team 25577 results](https://ftc-events.firstinspires.org/2025/team/25577))
 
-### **Freelance Developer**
-Started freelancing at age 12, delivering software solutions for **2 major holdings** and various clients for ~2 years.
+### Autonomous systems and innovation
 
----
+- **TÜBİTAK UAV Competition:** 1st in Türkiye in the free category and recipient of the TUSAŞ Special Award. ([result](https://sisli.meb.gov.tr/www/tubitak-insansiz-hava-araclari-yarismasi/icerik/1563))
+- **TEKNOFEST Unmanned Underwater Systems:** 3rd place in the basic category with ZAĞANOS ROV and the Most Original Software Award. ([competition result](https://www.teknofest.org/tr/yarismalar/insansiz-su-alti-sistemleri-yarismasi/) · [award](https://www.teknofest.org/tr/duyurular/teknofest-mavi-vatanda-oduller-sahiplerini-buldu/))
+- **WRO Türkiye:** 3rd place with a thermal-imaging drone system built in four days.
+- **BoğaziçiAI UpForAChallenge:** 1st place after a 30-hour development sprint.
+- **ISIF’25:** Gold Medal at the 10th Istanbul International Inventions Fair.
 
-## 🛠️ The "Garage to Lab" Journey
+## Builder’s path
 
-My passion for hardware started in 7th grade when I built my first **3D printer** by forking an open-source model. By 8th grade, I was designing my own printers from scratch, capable of printing high-performance materials like PEEK.
+I began by assembling an open-source 3D printer in seventh grade. A year later, I was designing printers from scratch and experimenting with high-performance materials such as PEEK. In high school, I helped found an independent FRC team that spent two years building robots in a 10 m² warehouse. Access to ODTÜ GVO's workshop became a turning point; in our first season with proper facilities, the team won its regional.
 
-In high school, I joined an independent **FRC (FIRST Robotics Competition)** team as a founding member and lead.
-- **The Beginning**: We spent two years working out of a **10m² warehouse**, pushing our limits with minimal resources but struggling to finish our robots on time.
-- **The Turning Point**: Meeting a teacher from **ODTÜ GVO (ODTÜ Development Foundation Schools)** changed everything. We gained access to proper machinery and workshops.
-- **The Result**: In our very first year with proper facilities, we became **Regional Winners**. We have filled our cabinet with National Championships, and now we are laser-focused on becoming **World Champions** this year! 🚀
+That path—from improvised hardware to competition robots, autonomous systems, and AI infrastructure—still shapes how I work: build the full system, understand its constraints, and make it survive outside the demo.
 
----
+## Community and leadership
 
-## 🔧 Technical Arsenal & Engineering Feats
+- Mentored **two FLL teams**, including one that qualified for the World Championship.
+- Mentored **two FTC teams**, both of which became national winners.
+- Lead **ProBot** and **NFR Academy** initiatives that make robot design and software education more accessible to students.
+- Practice FIRST's principles of Gracious Professionalism® and Coopertition® in team leadership and mentorship.
 
-- **Domains**: Physical AI, Mechanical Design, PCB Design, Robotics, UAVs, ROVs.
-- **Hardware**: Custom PCB design (Logic circuit optimization), 3D Printer Design (FDM/PEEK), Drone Mechanical Design.
-- **Software**: Python, Embedded Systems, AI/ML integration in Robotics.
+## Technical range
 
----
+`AI infrastructure` · `Python` · `embedded systems` · `robotics` · `PCB design` · `mechanical design` · `UAVs` · `ROVs` · `3D printers`
 
-## 🤝 Community & Leadership
-
-**"Beloved by middle school students, who seek his mentorship even outside competition periods."**
-
-- **Mentorship**: Mentored **2 FLL teams** (one qualified for Worlds 🌍) and **2 FTC teams** (both National Winners 🏆).
-- **Leadership**: 
-    - **Team Captain**: Leading the FRC team with a focus on empowering members and crisis management.
-    - **ProBot & NFR Academy**: Leading initiatives to democratize robot design and software education for students.
-- **Philosophy**: Committed to **Gracious Professionalism®** and **Coopertition®**, fostering collaboration and collective learning.
-
----
-
-*“I create things that move, think, and solve real-world problems.”*
-
-<div align="center">
-<br>
-
-<a href="mailto:efeerdogmus0@gmail.com">Mail</a> • 
-<a href="https://linkedin.com/in/efeerdogmus0">LinkedIn</a>
-
-<br><br>
-
-![efeerdogmus0's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=efeerdogmus0&show_icons=true&theme=gotham&hide_border=true)
-![efeerdogmus0's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=efeerdogmus0&theme=gotham&hide_border=true&layout=compact)
-
-</div>
+I build things that move, think, and solve real-world problems.

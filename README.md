@@ -10,15 +10,7 @@ I am a student engineer in Istanbul working across AI infrastructure, robotics, 
 
 At **Kavram.ai**, I am co-founding a distributed image inference cloud for developers: one API for open image models, backed by a pipeline-split GPU worker network. My work spans product, backend and worker systems, deployment, and operations.
 
-Most of my current Kavram work is private. The repositories below are representative public engineering work, not a complete activity log.
-
-## Selected public engineering work
-
-| Project | What it does |
-| --- | --- |
-| [PX4 Log to QGroundControl Telemetry](https://github.com/efeerdogmus0/px4-log-to-qground-telemetry) | Replays PX4 ULog flight data into QGroundControl over MAVLink, with automated tests and CI. |
-| [OpenTorpedo](https://github.com/efeerdogmus0/opentorpedo) | CAD, physics, and optimization tooling for underwater vehicle and torpedo design studies. |
-| [FRC Shooter Calculator](https://github.com/efeerdogmus0/frc-shooter-calculator) | A PyQt6 simulator for exploring FRC shooter geometry and launch parameters. |
+Most of my current Kavram work is private.
 
 ## Experience and ventures
 
@@ -27,7 +19,7 @@ Most of my current Kavram work is private. The repositories below are representa
 - **MEB “Tasarla Geliştir” — Technical organizer and infrastructure lead:** Helped build the competition's software, electronics, and mechanical infrastructure.
 - **460 Elektrik — Founder:** Built an AI-assisted electronics sales operation whose revenue funded later hardware work.
 - **FRC Team NF 9029 — Founding member, lead, and captain:** Worked across robot mechanics, control, strategy, team operations, and mentorship.
-- **CoPrint — Volunteer intern:** Spent seven months gaining hands-on experience in 3D-printer technology.
+- **CoPrint — Intern:** Spent seven months gaining hands-on experience in 3D-printer technology.
 - **RulesUp — Intern:** Worked on digital education initiatives.
 - **Freelance developer:** Started at age 12 and delivered software for two major holdings and other clients over roughly two years.
 
